@@ -335,7 +335,7 @@ input[type=submit]:hover {
 }
 
 
-@media only screen and (max-width: 600px) {
+@media all and (max-width: 1000px) and (min-width: 200px) {
     .about-me {
     display: flex;
     flex-direction: column;
