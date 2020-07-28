@@ -101,8 +101,6 @@ a:hover {
 .about-me{
     width: 60vw;
     display: flex;
-    text-align: justify;
-    text-justify: inter-word;
     padding: 1em;
     margin: 2rem .5rem;
     border-radius: 6px;
